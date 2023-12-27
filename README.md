@@ -3,7 +3,10 @@
 # Backend Go
 
 ```
-go mod init api
+# go mod init api
+
+# go get github.com/gorilla/mux github.com/lib/pq
+
 ```
 
 # Frontend (Next Js)
